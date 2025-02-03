@@ -53,6 +53,7 @@ h1{
     0px 0px 15px rgb(145, 144, 144) inset;;
     cursor:text;
     border-radius: 50px;
+    color: white;
 }
 .label{
     color: antiquewhite;
